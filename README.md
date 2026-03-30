@@ -58,6 +58,13 @@ Sou Desenvolvedora Full Stack com foco em criar aplicações escaláveis, organi
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-FF00FF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519998545175)
 [![Email](https://img.shields.io/badge/Email-FF8C00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laiza.lima.guedes@gmail.com)
 
+---
+
+### 📚 Repositórios para Estudo (Learning Resources)
+Projetos que desenvolvi com foco em boas práticas, padrões de projeto e arquitetura para ajudar outros desenvolvedores:
+
+* **[Firebase Authenticator](https://github.com/laizaguedes/authenticator-firebase)**: Exemplo prático de autenticação em Next.js, demonstrando o uso de Context API para estado global, persistência de sessão e proteção de rotas (Client-side). Ideal para entender o fluxo de segurança em aplicações SSR/SPA modernos.
+
 </div>
 </details>
 
@@ -116,6 +123,13 @@ I'm a Full Stack Developer focused on building scalable, organized, and high-per
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/laizaguedes/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-FF00FF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519998545175)
 [![Email](https://img.shields.io/badge/Email-FF8C00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laiza.lima.guedes@gmail.com)
+
+---
+
+### 📚 Learning Resources
+Projects I've developed with a focus on best practices, design patterns, and architecture to help fellow developers:
+
+* **[Firebase Authenticator](https://github.com/laizaguedes/authenticator-firebase)**: A practical example of authentication in **Next.js**, demonstrating the use of **Context API** for global state management, session persistence, and client-side route protection. Ideal for understanding security workflows in modern SSR/SPA applications.
 
 </div>
 </details>
