@@ -1,10 +1,12 @@
-<div align="right">
+<div>
   Clique no idioma para expandir / Click on the language to expand
-</div>
+</div><br>
 
 <details>
 <summary style="cursor: pointer;">
-  <img src="https://img.shields.io/badge/Português-00E5FF?style=for-the-badge&logo=portugal&logoColor=black" alt="PT-BR">
+  <span style="background-color: #00E5FF; color: black; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-family: sans-serif; font-size: 12px; border: 1px solid #00E5FF;">
+    Português
+  </span>
 </summary>
 <br>
 <div id="portugues">
@@ -61,7 +63,9 @@ Sou Desenvolvedora Full Stack com foco em criar aplicações escaláveis, organi
 
 <details open>
 <summary style="cursor: pointer;">
-  <img src="https://img.shields.io/badge/English-444444?style=for-the-badge&logo=google-translate&logoColor=white" alt="EN-US">
+  <span style="background-color: #00bcd4; color: black; padding: 5px 10px; border-radius: 5px; font-weight: bold; font-family: sans-serif; font-size: 12px; border: 1px solid #00E5FF;">
+    English
+  </span>
 </summary>
 <br>
 <div id="english">
